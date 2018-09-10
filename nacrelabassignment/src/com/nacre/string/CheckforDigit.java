@@ -38,7 +38,7 @@ public String getStrvar() {
 		digit.setStrvar("123siva@675");
 		System.out.println(digit.getStrvar());
 		String s1=digit.printNumber();
-		System.out.println(s1);
+		System.out.println("retrived numbers from given string are: "+s1);
 		
 		
 	}
