@@ -1,5 +1,3 @@
-# java
-
 Start Guide
 -------------
 
